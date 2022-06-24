@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cvchukwu
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Front-end Web Dev
-- 💞️ I’m looking to collaborate on Front-end Web Devs
+- 🌱 I’m currently learning Frontend Web Development
+- 💞️ I’m looking to collaborate on Frontend Web Devs
 - 📫 How to reach me: Twitter & Instagram @cvchukwu
 
 <!---
